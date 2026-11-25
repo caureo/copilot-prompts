@@ -63,6 +63,23 @@ Durante o desenvolvimento deste desafio, pude aplicar conceitos de engenharia de
 - Exportar o plano de carreira em PDF.
 - Implementar acompanhamento da evolução dos estudos.
 
+## 📂 Documentação dos resultados
+
+- [Entrevista de carreira — Agent 1](resultados/entrevista.md)
+- [Handoff entre os agentes](resultados/handoff.md)
+- [Roadmap de 90 dias — Agent 2](resultados/roadmap-90-dias.md)
+
+## 📸 Evidências de execução
+
+### Agent 1 — Entrevistador de Carreira
+
+![Resultado do Agent 1](agent-1.png)
+
+### Agent 2 — Planejador de Carreiras
+
+![Resultado do Agent 2](agent-2.png)
+
+
 ## Referência
 
 Projeto baseado no repositório original da DIO:
